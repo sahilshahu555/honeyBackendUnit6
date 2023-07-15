@@ -1,0 +1,24 @@
+{
+  "name": "honeybackendunit6",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sahilshahu555/honeyBackendUnit6.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sahilshahu555/honeyBackendUnit6/issues"
+  },
+  "homepage": "https://github.com/sahilshahu555/honeyBackendUnit6#readme",
+  "dependencies": {
+    "json": "^11.0.0",
+    "server": "^1.0.38"
+  }
+}
